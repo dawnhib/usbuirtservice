@@ -1,0 +1,5 @@
+C:\Dev\USB-UIRT\UsbUirtService\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Jimbo\Microsoft Robotics Dev Studio 2008 Express\bin\UsbUirtService.Y2009.M01.dll
+C:\Documents and Settings\Jimbo\Microsoft Robotics Dev Studio 2008 Express\bin\UsbUirtService.Y2009.M01.pdb
+C:\Dev\USB-UIRT\UsbUirtService\obj\Release\UsbUirtService.Y2009.M01.dll
+C:\Dev\USB-UIRT\UsbUirtService\obj\Release\UsbUirtService.Y2009.M01.pdb
