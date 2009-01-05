@@ -98,10 +98,7 @@
       <SpecificVersion>False</SpecificVersion>
       <Private>False</Private>
     </Reference>
-    <Reference Include="UsbUirtManagedWrapper, Version=0.0.5.0, Culture=neutral, PublicKeyToken=d14629ade2cf1567, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\api_example_code\UsbUirt_rev1\UsbUirt\UsbUirt Managed Wrapper\bin\Release\UsbUirtManagedWrapper.dll</HintPath>
-    </Reference>
+    <Reference Include="UsbUirtManagedWrapper, Version=0.0.5.0, Culture=neutral, PublicKeyToken=d14629ade2cf1567, processorArchitecture=MSIL" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -115,6 +112,7 @@
     <EmbeddedResource Include="images\usbuirt.JPG" />
     <EmbeddedResource Include="images\UsbUirtService.Image.type" />
     <EmbeddedResource Include="images\UsbUirtService.Thumbnail.type" />
+    <Content Include="lib\UsbUirtManagedWrapper.dll" />
     <Content Include="SecuritySettings.xml" />
     <Content Include="UsbUirtService.manifest.xml" />
   </ItemGroup>
